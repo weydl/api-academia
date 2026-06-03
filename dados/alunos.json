@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "nome": "Ana Silva",
+    "email": "ana@email.com",
+    "plano": "VIP",
+    "mensalidade": 199.9,
+    "ativo": true
+  },
+  {
+    "id": 2,
+    "nome": "Carlos Lima",
+    "email": "carlos@email.com",
+    "plano": "Premium",
+    "mensalidade": 149.9,
+    "ativo": true
+  },
+  {
+    "id": 3,
+    "nome": "Bia Santos",
+    "email": "bia@email.com",
+    "plano": "Básico",
+    "mensalidade": 89.9,
+    "ativo": false
+  }
+]
